@@ -1,0 +1,12 @@
+$color_1: #fff;
+
+* {
+	&::section {
+		background: #f9580e;
+		color: $color_1;
+	}
+}
+html {
+	font-size: 62.5%;
+	overflow-x: hidden;
+}

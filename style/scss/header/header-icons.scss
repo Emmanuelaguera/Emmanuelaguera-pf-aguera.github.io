@@ -1,0 +1,13 @@
+$color_1: #130701;
+
+header {
+	span {
+		.material-symbols-outlined {
+			font-size: 1rem;
+			color: $color_1;
+			cursor: pointer;
+			display: none;
+			transition: 2.s;
+		}
+	}
+}
